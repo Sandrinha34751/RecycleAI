@@ -1,0 +1,6 @@
+{
+  "metal": 0,
+  "papel": 1,
+  "plastico": 2,
+  "vidro": 3
+}
