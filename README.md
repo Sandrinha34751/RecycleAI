@@ -1,0 +1,2 @@
+Este projeto consiste em um classificador de materiais recicláveis utilizando uma rede neural treinada. A aplicação permite que o usuário selecione uma imagem do computador e, através do modelo, o sistema identifica o tipo de material (como papel, plástico, vidro ou metal).
+Além da classificação, o programa também exibe a probabilidade de cada categoria e o tempo de processamento da inferência, mostrando de forma visual e intuitiva o resultado da análise.
